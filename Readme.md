@@ -3,4 +3,4 @@
 - Python
 - Go
 - C++
-- Typescript
+- Javascript
