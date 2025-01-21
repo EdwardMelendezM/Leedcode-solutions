@@ -20,6 +20,6 @@ public:
                 stack.push(c);
             }
         }
-        return true;
+        return stack.empty();;
     }
 };
